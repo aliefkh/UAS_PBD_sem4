@@ -4,6 +4,8 @@ Dosen: Novi Prisma Yunita, M.Kom
 Alief Khairul Fadzli 22.11.4983
 Chanan Artamma 22.11.4957
 Barzy Ariel Nadzif 22.11.4993
+Mahsa Athallah Zufar 22.11.4969
+Reyhan Arya Luki S 22.11 4950
 
 
 PROGRAM STUDI S1 INFORMATIKA, FAKULTAS ILMU KOMPUTER
